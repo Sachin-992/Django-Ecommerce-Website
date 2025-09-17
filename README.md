@@ -22,19 +22,21 @@ It allows users to browse products by category, add them to cart or favourites w
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/d6e7674a-eeba-420b-b42f-74c747bae11a" />
+<img width="1920" height="912" alt="Home" src="https://github.com/user-attachments/assets/de89f388-4612-4654-b7b7-137112e9aa6a" />
 
 
 ### 🛍️ Collections  
-<img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/578e0b46-3a3d-4983-8706-ea0ac32b5a8a" />
+<img width="1920" height="910" alt="collections" src="https://github.com/user-attachments/assets/a42648dd-324e-496a-8c55-600a1b021a6d" />
 
 
 ### 🛒 Shopping Cart  
-<img width="1920" height="866" alt="image" src="https://github.com/user-attachments/assets/7d05dc17-a830-417d-af83-ee5c7ec6876a" />
+<img width="1920" height="902" alt="cart" src="https://github.com/user-attachments/assets/ab306417-a98e-40ae-99c2-e65d8afb4e83" />
+
 
 
 ### 🏬 Fav Page  
-<img width="1901" height="870" alt="image" src="https://github.com/user-attachments/assets/ce92daff-b171-4974-95a7-d7fb10aa300b" />
+<img width="1920" height="916" alt="fav" src="https://github.com/user-attachments/assets/b4a0925d-4b7c-4122-99cf-ce2aa18e3176" />
+
 
 
 ---
